@@ -5,7 +5,7 @@ This project explores the use of artificial intelligence to generate realistic n
 ![Underwater Scene Preview](images/full.png)
 
 <p align="center">
-  <img src="images/npc.png" alt="Image 1" width="240"/>
+  <img src="images/npc.png" alt="Image 1" width="400"/>
   <img src="images/fps.png" alt="Image 2" width="400"/>
 </p>
 
