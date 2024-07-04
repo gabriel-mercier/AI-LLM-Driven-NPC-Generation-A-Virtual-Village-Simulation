@@ -1,6 +1,11 @@
 # AI-LLM-Driven NPC Generation: A Virtual Village Simulation
 
-This project explores the use of artificial intelligence to generate realistic non-player characters (NPCs) in a virtual village environment. The NPCs are designed to interact autonomously, creating a dynamic and immersive simulation.
+This project explores the intersection of artificial intelligence, neuroscience, and game development by creating a virtual village populated with realistic non-player characters (NPCs). Leveraging advanced large language models (LLMs) like GPT-3.5-turbo, we generate NPCs that can autonomously interact and simulate human-like behaviors. The project employs techniques in prompt engineering to fine-tune the interactions and decision-making processes of these agents.
+
+Our architecture is divided into a back-end and a front-end. The back-end handles the logic for NPC behavior, including memory management, emotional responses, and interaction dynamics. This is heavily inspired by principles of neuroscience to create a believable and immersive experience. The front-end, developed using Pygame and Tiled, visualizes the village and the interactions of the NPCs in real-time.
+
+The project also explores the potential of open-source models like LLama and Mistral for enhancing NPC behavior and interaction. By integrating these models, we aim to push the boundaries of what is possible in game development, creating a rich, dynamic environment that evolves based on the actions and interactions of its inhabitants.
+
 
 ![thevillage](images/TheVillage.gif)
 
@@ -46,12 +51,7 @@ This project explores the use of artificial intelligence to generate realistic n
 
 ## Contributors
 
-- Zakaria Abboud
-- Gabriel Mercier
-- Yingwei Tang
-- Brahim Touayouch
-- Siyuan Zou
-
-## License
-
-This project is licensed under the MIT License.
+- Zakaria A.
+- Yingwei T.
+- Brahim T.
+- Siyuan Z.
