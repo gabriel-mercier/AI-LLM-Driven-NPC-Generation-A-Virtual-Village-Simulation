@@ -2,7 +2,7 @@
 
 This project explores the use of artificial intelligence to generate realistic non-player characters (NPCs) in a virtual village environment. The NPCs are designed to interact autonomously, creating a dynamic and immersive simulation.
 
-![Underwater Scene Preview](images/full.png)
+![thevillage](images/TheVillage.gif)
 
 <p align="center">
   <img src="images/npc.png" alt="Image 1" width="400"/>
