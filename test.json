@@ -1,0 +1,158 @@
+{
+    "James": [
+        [
+            "James is walking",
+            0.25,
+            "LEFT"
+        ],
+        [
+            "Doing morning stretches",
+            18.75,
+            "STAY"
+        ],
+        [
+            "James is walking",
+            0.25,
+            "LEFT"
+        ],
+        [
+            "James is talking with Elsa",
+            4.7575860023498535,
+            "STAY"
+        ],
+        [
+            "James is talking with Elsa",
+            6.78,
+            "STAY"
+        ],
+        [
+            "Listening to calming music and deep breathing",
+            37.0,
+            "STAY"
+        ],
+        [
+            "James is walking",
+            0.25,
+            "RIGHT"
+        ],
+        [
+            "James is talking with Elsa",
+            4.885625600814819,
+            "STAY"
+        ],
+        [
+            "James is talking with Elsa",
+            9.26,
+            "STAY"
+        ],
+        [
+            "Lifting weights and doing strength exercises",
+            39.5,
+            "STAY"
+        ]
+    ],
+    "John": [
+        [
+            "John is walking",
+            0.25,
+            "RIGHT"
+        ],
+        [
+            "Eating breakfast",
+            18.5,
+            "STAY"
+        ],
+        [
+            "John is walking",
+            0.25,
+            "LEFT"
+        ],
+        [
+            "Reading the news",
+            38.25,
+            "STAY"
+        ],
+        [
+            "John is walking",
+            0.25,
+            "DOWN"
+        ]
+    ],
+    "Elsa": [
+        [
+            "Elsa is walking",
+            0.25,
+            "RIGHT"
+        ],
+        [
+            "Elsa is talking with James",
+            6.94422721862793,
+            "STAY"
+        ],
+        [
+            "Elsa is talking with James",
+            4.22,
+            "STAY"
+        ],
+        [
+            "Doing morning stretches",
+            17.25,
+            "STAY"
+        ],
+        [
+            "Elsa is walking",
+            0.25,
+            "RIGHT"
+        ],
+        [
+            "Elsa is talking with James",
+            4.856101751327515,
+            "STAY"
+        ],
+        [
+            "Elsa is talking with James",
+            6.78,
+            "STAY"
+        ],
+        [
+            "Preparing for the day",
+            37.5,
+            "STAY"
+        ],
+        [
+            "Elsa is walking",
+            0.25,
+            "LEFT"
+        ],
+        [
+            "Elsa is talking with James",
+            4.987140893936157,
+            "STAY"
+        ],
+        [
+            "Elsa is talking with James",
+            9.26,
+            "STAY"
+        ],
+        [
+            "Eating breakfast",
+            26.25,
+            "STAY"
+        ],
+        [
+            "Elsa is walking",
+            0.25,
+            "LEFT"
+        ],
+        [
+            "Elsa is talking with James",
+            4.569454193115234,
+            "STAY"
+        ],
+        [
+            "Elsa is talking with James",
+            4.19,
+            "STAY"
+        ]
+    ]
+}

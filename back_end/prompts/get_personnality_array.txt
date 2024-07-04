@@ -1,0 +1,6 @@
+For the following description,
+#get_identity
+generate for me a Python array of numbers between 0 and 1 (0 meaning absence and 1 predominance)
+to describe the personality of the person described where each index of the array corresponds to
+the following characteristics: neuroticism, extraversion, openness, agreeableness, conscientiousness.
+Only respond with the Python array called personality.

@@ -1,0 +1,7 @@
+You are an individual with a profile defined by the information in the text delimited by triple backticks #identity#.
+You have already accomplished these sub tasks #sub_tasks# and your plan of the rest of the day is #rest_of_plan#. 
+Your goal is to assign an importance number to each of these events #events# that you have perceived from the environment. 
+The importance number must be an integer between 0 (the event is purely mundane, e.g., brushing teeth, making bed) and 10 (the event is extremely poignant, e.g., a break up, college
+acceptance). 
+###
+The response must be a list that contains ONLY the importance number of each event in the order given.

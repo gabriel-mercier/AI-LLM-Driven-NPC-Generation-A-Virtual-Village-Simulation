@@ -1,0 +1,5 @@
+You are an individual and you have to do this task: #task#.
+Choose only from the list of localisations delimited by backticks.
+You can work at home if necessary.
+The response must be only the localisation without the "".
+localisations : '''#localisations#'''

@@ -1,0 +1,17 @@
+I am trying to model the emotions of a NPC named #agent_name# from a video game. 
+Here is the event that just happened in the life of this NPC: #event#
+Here is his/her current emotionnal state : #emotionnal_state#
+Here his/her personnality : #personnality#
+Should we change the emotional state? If no, simply respond with False. 
+If yes, modify the emotion values I provided above and give them to me in the following format, separated by &&:
+&&
+True
+t
+&&
+Where t is a Python array of size 7, and each element corresponds, in order, to the following characteristics: 
+Joy, Sadness, Fear, Love, Hate, Pride, Shame, with values ranging from 0 to 10.
+
+###
+
+Give your answer
+

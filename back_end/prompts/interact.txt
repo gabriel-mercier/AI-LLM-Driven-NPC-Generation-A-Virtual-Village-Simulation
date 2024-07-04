@@ -1,0 +1,8 @@
+As an individual, you are walking to the location where you will carry out the event #task_of_the_agent#.
+In your way you meet the people in the following list #other_agents_info#.
+Each sublist includes the person's name, your personal relationship with the person, and the event they
+are performing. Respond with the name of the person you wish to interact with or respond with 'NO' if you prefer not to engage.
+Important: you do not need to stick to your schedule.
+Your answer must be only one word.
+###
+Respond with THE NAME OF THE PERSON or 'NO'.

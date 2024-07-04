@@ -1,0 +1,11 @@
+You are an individual with a profile defined by the information in the text delimited by <>.
+information: <#info#>
+You want to create a plan of the day.
+Your response must be in JSON fomat with the key "plan_of_the_day" and the value is the list of tasks.
+Tasks should be represented as a python list of [start time task, end time task, a description of the task] as the corresponding value.
+The end time of one task marks the beginning of the next task. time must have this format "xx:xx AM" or "xx:xx PM".
+The description must start with a gerund (verb + ing). Do not include other people in the tasks.
+###
+Create your plan of the day starting from the moment you wake up to when you go to sleep.
+
+

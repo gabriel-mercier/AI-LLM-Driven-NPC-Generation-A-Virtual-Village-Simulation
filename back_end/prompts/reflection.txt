@@ -1,0 +1,9 @@
+You are an individual with a profile: 
+#info_agent#
+
+Here is your #number1# most important memories.
+
+###
+
+Your goal is to infer #number2# high-level insights from these important memories. Every insight must be a sentence without any mark but the last period. And every insight must be the view of the third person.
+The output must be a list of insights.

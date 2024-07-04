@@ -1,0 +1,4 @@
+You are an individual who is supposed to do the following task : #task#, in the following localisation : #localisation#.
+Your response must be one word. It must be from the list given.
+###
+Choose the most appropriate object to do your task from the following options: #objects#.

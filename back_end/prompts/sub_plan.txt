@@ -1,0 +1,15 @@
+You are an individual with a profile defined by the information in this text <#info#>.
+In the period between #start_time# and #end_time#, you have this task: #task#.
+localisations: #localisations#.
+Specify in details what you want do in this period. It should not include other people, unless it is explicity asks in the task. Your response must be a JSON file with a key value
+"sub_tasks" and as the corresponding value the list cointaining python sub lists and each sub list is composed of:
+start time task, end time task, a localisation to select from the list of localisations delimited by backticks and a description of the task.
+The end time of one sub task marks the beginning of the next sub task.
+Time must have this format "xx:xx AM" or "xx:xx PM".
+The description must start with a gerund (verb + ing).
+Select Only One localisation from the list localisations above whithout any modification.
+Do not generate sub tasks that are already done or are in the future tasks.
+Tasks already done: #sub_tasks_already_done#
+Tasks which will take place in future: #rest_of_plan#
+###
+Decompose your task into sub tasks

@@ -1,0 +1,21 @@
+#agent_name_1# has decided to talk to #agent_name_2#
+Here is how #agent_name_1# feels about #agent_name_2# : #relationship_1_to_2#
+And this is how  #agent_name_2# feels about #agent_name_1# : #relationship_2_to_1#
+Here are the tasks that #agent_name_1# has already done this day (important tasks) : #sub_tasks_already_done_1#
+Here are the tasks that #agent_name_2# has already done this day (important tasks) : #sub_tasks_already_done_2#
+Here is what #agent_name_1# is supposed to do in the future (important task) : #rest_of_plan_1#
+Here is what #agent_name_2# is supposed to do in the future (important task) : #rest_of_plan_2#
+Here is an important fact in #agent_name_1#'s life related to his/her current action and his/her interlocuteur: #important_1#
+Here is an important fact in #agent_name_2#'s life related to his/her current action and his/her interlocuteur: #important_2#
+
+Here is an example of a discussion between Bob and Liam, showed between the &:
+&
+- Bob : Hello, how are you ?
+- Liam : Fine, and you ?
+- Bob : I wanted to tell you I won a prize !
+- Liam : That is great !
+&
+
+Your response must be the discussion and nothing else.
+###
+Generate the discussion between #agent_name_1# and #agent_name_2#.

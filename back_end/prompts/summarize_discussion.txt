@@ -1,0 +1,6 @@
+Here is a discussion between #agent_name# and #other_agent_name#:
+#discussion#
+Summarize it from the point of view of #agent_name# in only one short sentence.
+Begin it with : Discussion between #agent_name# and #other_agent_name# about ...
+###
+Summarize the discussion.
