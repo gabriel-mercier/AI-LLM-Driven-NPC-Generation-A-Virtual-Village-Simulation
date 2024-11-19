@@ -4,6 +4,5 @@ psc
 .env
 test.py
 configuration.json
-back_end/memory
 
 dataTypes.txt
