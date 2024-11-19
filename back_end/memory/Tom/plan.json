@@ -1,0 +1,254 @@
+[
+    [
+        "6:00 AM",
+        "6:30 AM",
+        "Preparing breakfast and enjoying a cup of coffee",
+        [
+            [
+                "6:00 AM",
+                "6:10 AM",
+                "Grocery store:Beverage selling area",
+                "Selecting and purchasing coffee and any other breakfast beverages"
+            ],
+            [
+                "6:10 AM",
+                "6:30 AM",
+                "Elsa's and James's House:Kitchen:Counter",
+                "Preparing breakfast and enjoying a cup of coffee"
+            ]
+        ]
+    ],
+    [
+        "6:30 AM",
+        "7:00 AM",
+        "Morning workout and stretching",
+        [
+            [
+                "6:30 AM",
+                "6:45 AM",
+                "Gym:Stamina area:Running machine",
+                "Doing morning workout"
+            ],
+            [
+                "6:45 AM",
+                "7:00 AM",
+                "Gym:Stamina area:Gym carpet",
+                "Stretching after workout"
+            ]
+        ]
+    ],
+    [
+        "7:00 AM",
+        "08:03 AM",
+        "Getting ready for work and commuting to the office",
+        [
+            [
+                "7:00 AM",
+                "7:15 AM",
+                "John's House:Bedroom:Wardrobe",
+                "Getting dressed and grooming"
+            ],
+            [
+                "7:15 AM",
+                "7:30 AM",
+                "John's House:Kitchen:Fridge",
+                "Preparing a quick and healthy breakfast"
+            ],
+            [
+                "7:30 AM",
+                "7:45 AM",
+                "John's House:Living Room:Table left side",
+                "Packing work essentials and checking the schedule"
+            ],
+            [
+                "7:45 AM",
+                "08:03 AM",
+                "Elsa's and James's House:Living Room:Armchair",
+                "Traveling to the office while listening to a podcast or favorite music"
+            ]
+        ]
+    ],
+    [
+        "8:00 AM",
+        "12:00 PM",
+        "Engaging in engineering tasks and collaborating with colleagues",
+        [
+            [
+                "8:00 AM",
+                "10:00 AM",
+                "Orange Office:Office desks:Office table",
+                "Engaging in engineering tasks and collaborating with colleagues"
+            ]
+        ]
+    ],
+    [
+        "12:00 PM",
+        "1:00 PM",
+        "Lunch break and experimenting with a new recipe",
+        [
+            [
+                "12:00 PM",
+                "12:15 PM",
+                "Grocery store:Fruits and vegetables selling area",
+                "Selecting fresh vegetables and fruits for the new recipe"
+            ],
+            [
+                "12:15 PM",
+                "12:30 PM",
+                "Grocery store:Meat selling area",
+                "Choosing the type of meat for the new recipe"
+            ],
+            [
+                "12:30 PM",
+                "12:45 PM",
+                "Grocery store:Sauce selling area",
+                "Exploring different sauces and seasonings for the new recipe"
+            ],
+            [
+                "12:45 PM",
+                "1:00 PM",
+                "Grocery store:Beverage selling area",
+                "Picking up a refreshing beverage to enjoy during the cooking process"
+            ]
+        ]
+    ],
+    [
+        "1:00 PM",
+        "5:00 PM",
+        "Continuing engineering tasks and attending meetings",
+        [
+            [
+                "1:00 PM",
+                "3:00 PM",
+                "Orange Office:Office desks:Office table",
+                "Continuing engineering tasks and attending meetings"
+            ]
+        ]
+    ],
+    [
+        "5:00 PM",
+        "6:00 PM",
+        "Relaxing with a video game session",
+        [
+            [
+                "5:00 PM",
+                "6:00 PM",
+                "John's House:Living Room:Chair left side",
+                "Playing a video game and relaxing after a long day at work"
+            ]
+        ]
+    ],
+    [
+        "6:00 PM",
+        "7:00 PM",
+        "Cooking dinner and trying out a new cooking technique",
+        [
+            [
+                "6:00 PM",
+                "6:15 PM",
+                "Grocery store:Meat selling area",
+                "Selecting a cut of meat for the new cooking technique"
+            ],
+            [
+                "6:15 PM",
+                "6:30 PM",
+                "Grocery store:Fruits and vegetables selling area",
+                "Picking up fresh vegetables and fruits for the new recipe"
+            ],
+            [
+                "6:30 PM",
+                "6:45 PM",
+                "Grocery store:Sauce selling area",
+                "Exploring different sauces and seasonings for the new recipe"
+            ],
+            [
+                "6:45 PM",
+                "7:00 PM",
+                "Grocery store:Beverage selling area",
+                "Selecting a refreshing beverage to enjoy during the cooking process"
+            ]
+        ]
+    ],
+    [
+        "7:00 PM",
+        "8:00 PM",
+        "Enjoying dinner and listening to electronic music",
+        [
+            [
+                "7:00 PM",
+                "7:30 PM",
+                "Grocery store:Beverage selling area",
+                "Selecting a bottle of wine to pair with dinner"
+            ],
+            [
+                "7:30 PM",
+                "8:00 PM",
+                "Sara's and Alice's House:Kitchen:Counter",
+                "Preparing a delicious dinner while listening to electronic music"
+            ]
+        ]
+    ],
+    [
+        "8:00 PM",
+        "9:00 PM",
+        "Engaging in a hobby or personal project",
+        [
+            [
+                "8:00 PM",
+                "8:30 PM",
+                "Grocery store:Fish selling area",
+                "Selecting fresh fish for a new recipe"
+            ],
+            [
+                "8:30 PM",
+                "9:00 PM",
+                "Grocery store:Fruits and vegetables selling area",
+                "Choosing a variety of fresh vegetables for the new recipe"
+            ]
+        ]
+    ],
+    [
+        "9:00 PM",
+        "9:30 PM",
+        "Wind down with a calming activity",
+        [
+            [
+                "9:00 PM",
+                "9:15 PM",
+                "Lakeside:Fishing area",
+                "Enjoying the peacefulness of nature while fishing"
+            ],
+            [
+                "9:15 PM",
+                "9:30 PM",
+                "Gym:Relaxing area:Chair",
+                "Practicing deep breathing and stretching to relax"
+            ]
+        ]
+    ],
+    [
+        "9:30 PM",
+        "10:00 PM",
+        "Preparing for bed and unwinding with a book or podcast",
+        [
+            [
+                "9:30 PM",
+                "9:40 PM",
+                "Grocery store:Snacks selling area",
+                "Selecting a light snack for bedtime"
+            ],
+            [
+                "9:40 PM",
+                "9:50 PM",
+                "Elsa's and James's House:Bedroom:Wardrobe",
+                "Changing into comfortable sleepwear"
+            ],
+            [
+                "9:50 PM",
+                "10:00 PM",
+                "Elsa's and James's House:Living Room:Armchair",
+                "Unwinding with a book or podcast"
+            ]
+        ]
+    ]
+]

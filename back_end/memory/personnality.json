@@ -1,0 +1,33 @@
+{
+  "John": {
+    "beginning_state": [0, 7, 6, 10, 10],
+    "current_state": [],
+    "history": []
+  },
+  "Elsa": {
+    "beginning_state": [2, 4, 6, 9, 8],
+    "current_state": [],
+    "history": []
+  },
+  "James": {
+    "beginning_state": [7, 3, 5, 2, 6],
+    "current_state": [],
+    "history": []
+  },
+  "Tom": {
+    "beginning_state": [2, 5, 3, 4, 5],
+    "current_state": [],
+    "history": []
+  },
+  "Sara": {
+    "beginning_state": [3, 6, 8, 5, 4],
+    "current_state": [],
+    "history": []
+  },
+  "Alice": {
+    "beginning_state": [5, 8, 7, 5, 6],
+    "current_state": [],
+    "history": []
+  }
+
+}

@@ -1,0 +1,316 @@
+[
+    [
+        "7:00 AM",
+        "7:30 AM",
+        "Doing morning exercises",
+        [
+            [
+                "7:00 AM",
+                "7:15 AM",
+                "Gym:Stamina area:Running machine",
+                "Doing morning exercises"
+            ],
+            [
+                "7:15 AM",
+                "7:30 AM",
+                "Gym:Stamina area:Gym carpet",
+                "Stretching and cooling down"
+            ]
+        ]
+    ],
+    [
+        "7:30 AM",
+        "08:41 AM",
+        "Preparing and having a healthy breakfast",
+        [
+            [
+                "7:30 AM",
+                "08:16 AM",
+                "John's House:Kitchen:Fridge",
+                "Gathering ingredients for a healthy breakfast"
+            ],
+            [
+                "08:16 AM",
+                "08:26 AM",
+                "John's House:Kitchen:Fridge",
+                "Preparing a nutritious breakfast"
+            ],
+            [
+                "08:26 AM",
+                "08:41 AM",
+                "Elsa's and James's House:Living Room:Armchair",
+                "Enjoying a healthy breakfast"
+            ]
+        ]
+    ],
+    [
+        "8:00 AM",
+        "09:30 AM",
+        "Practicing guitar",
+        [
+            [
+                "8:00 AM",
+                "09:00 AM",
+                "John's House:Living Room:Chair left side",
+                "Practicing guitar"
+            ],
+            [
+                "09:00 AM",
+                "09:30 AM",
+                "John's House:Living Room:Table right side",
+                "Improving guitar chords and scales"
+            ]
+        ]
+    ],
+    [
+        "9:00 AM",
+        "12:04 PM",
+        "Working on a project for Orange",
+        [
+            [
+                "9:00 AM",
+                "10:04 AM",
+                "Orange Office:Office desks:Office table",
+                "Reviewing project requirements and creating a task plan"
+            ],
+            [
+                "10:04 AM",
+                "11:04 AM",
+                "Orange Office:Reference room:Files rack",
+                "Researching and gathering necessary information for the project"
+            ],
+            [
+                "11:04 AM",
+                "12:04 PM",
+                "Orange Office:Common area:Sofa",
+                "Brainstorming with colleagues and discussing project ideas"
+            ]
+        ]
+    ],
+    [
+        "12:00 PM",
+        "1:00 PM",
+        "Lunch break and practicing Spanish",
+        [
+            [
+                "12:00 PM",
+                "12:30 PM",
+                "Grocery store:Fruits and vegetables selling area",
+                "Selecting fresh fruits and vegetables for lunch"
+            ],
+            [
+                "12:30 PM",
+                "1:00 PM",
+                "Sara's and Alice's House:Kitchen:Counter",
+                "Practicing Spanish while preparing lunch"
+            ]
+        ]
+    ],
+    [
+        "1:00 PM",
+        "3:00 PM",
+        "Continuing work on the project for Orange",
+        [
+            [
+                "1:00 PM",
+                "2:00 PM",
+                "Orange Office:Office desks:Office table",
+                "Reviewing project documentation and updating progress report"
+            ],
+            [
+                "2:00 PM",
+                "3:00 PM",
+                "Orange Office:Common area:Sofa",
+                "Meeting with project team to discuss current status and next steps"
+            ]
+        ]
+    ],
+    [
+        "3:00 PM",
+        "3:30 PM",
+        "Enjoying a snack and listening to rock music",
+        [
+            [
+                "3:00 PM",
+                "3:10 PM",
+                "Grocery store:Snacks selling area",
+                "Selecting a snack"
+            ],
+            [
+                "3:10 PM",
+                "3:30 PM",
+                "John's House:Living Room:Chair left side",
+                "Listening to rock music"
+            ]
+        ]
+    ],
+    [
+        "3:30 PM",
+        "5:00 PM",
+        "Engaging in physical training for the triathlon",
+        [
+            [
+                "3:30 PM",
+                "4:00 PM",
+                "Gym:Stamina area:Running machine",
+                "Doing warm-up exercises"
+            ],
+            [
+                "4:00 PM",
+                "4:30 PM",
+                "Gym:Stamina area:Running machine",
+                "Engaging in cardio training"
+            ],
+            [
+                "4:30 PM",
+                "5:00 PM",
+                "Gym:Stamina area:Gym carpet",
+                "Practicing swimming techniques"
+            ]
+        ]
+    ],
+    [
+        "5:00 PM",
+        "6:00 PM",
+        "Relaxing and unwinding",
+        [
+            [
+                "5:00 PM",
+                "5:30 PM",
+                "Gym:Relaxing area:Chair",
+                "Doing some light stretching and deep breathing"
+            ],
+            [
+                "5:30 PM",
+                "6:00 PM",
+                "Gym:Relaxing area:Chair",
+                "Meditating to clear the mind and relax the body"
+            ]
+        ]
+    ],
+    [
+        "6:00 PM",
+        "7:00 PM",
+        "Cooking and having a spicy dinner",
+        [
+            [
+                "6:00 PM",
+                "6:20 PM",
+                "Grocery store:Meat selling area",
+                "Selecting lean meat for dinner"
+            ],
+            [
+                "6:20 PM",
+                "6:40 PM",
+                "Grocery store:Fruits and vegetables selling area",
+                "Choosing fresh vegetables and fruits for dinner"
+            ],
+            [
+                "6:40 PM",
+                "7:00 PM",
+                "John's House:Kitchen:Counter",
+                "Cooking a spicy dinner"
+            ]
+        ]
+    ],
+    [
+        "7:00 PM",
+        "8:00 PM",
+        "Watching a documentary or educational content",
+        [
+            [
+                "7:00 PM",
+                "7:30 PM",
+                "Orange Office:Common area:Sofa",
+                "Watching a documentary about project management to gain insights and knowledge"
+            ],
+            [
+                "7:30 PM",
+                "8:00 PM",
+                "John's House:Living Room:Table left side",
+                "Learning about triathlon training techniques and strategies"
+            ]
+        ]
+    ],
+    [
+        "8:00 PM",
+        "9:00 PM",
+        "Reading a book or learning something new",
+        [
+            [
+                "8:00 PM",
+                "8:30 PM",
+                "John's House:Living Room:Table right side",
+                "Reading a book on project management"
+            ],
+            [
+                "8:30 PM",
+                "9:00 PM",
+                "John's House:Living Room:Table left side",
+                "Learning about advanced triathlon training techniques"
+            ]
+        ]
+    ],
+    [
+        "9:00 PM",
+        "10:00 PM",
+        "Reflecting on the day and setting goals for tomorrow",
+        [
+            [
+                "9:00 PM",
+                "9:15 PM",
+                "John's House:Living Room:Table left side",
+                "Reflecting on the day"
+            ],
+            [
+                "9:15 PM",
+                "9:30 PM",
+                "John's House:Living Room:Table left side",
+                "Reviewing the day's achievements"
+            ],
+            [
+                "9:30 PM",
+                "9:45 PM",
+                "John's House:Living Room:Table left side",
+                "Identifying areas for improvement"
+            ],
+            [
+                "9:45 PM",
+                "10:00 PM",
+                "John's House:Living Room:Table left side",
+                "Setting goals for tomorrow"
+            ]
+        ]
+    ],
+    [
+        "10:00 PM",
+        "11:00 PM",
+        "Getting ready for bed and winding down",
+        [
+            [
+                "10:00 PM",
+                "10:15 PM",
+                "John's House:Bathroom:Sink",
+                "Brushing teeth and flossing"
+            ],
+            [
+                "10:15 PM",
+                "10:30 PM",
+                "John's House:Bedroom:Wardrobe",
+                "Changing into comfortable sleepwear"
+            ],
+            [
+                "10:30 PM",
+                "10:45 PM",
+                "John's House:Living Room:Chair left side",
+                "Reading a book to relax"
+            ],
+            [
+                "10:45 PM",
+                "11:00 PM",
+                "John's House:Bedroom:Bed John side",
+                "Practicing deep breathing and meditation"
+            ]
+        ]
+    ]
+]

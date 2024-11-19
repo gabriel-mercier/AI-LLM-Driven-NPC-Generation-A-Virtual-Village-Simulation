@@ -1,0 +1,160 @@
+[
+    [
+        "07:00 AM",
+        "07:30 AM",
+        "Planning the day and preparing breakfast",
+        [
+            [
+                "07:00 AM",
+                "07:10 AM",
+                "Sara's and Alice's House:Kitchen:Counter",
+                "Making a cup of coffee"
+            ],
+            [
+                "07:10 AM",
+                "07:20 AM",
+                "Sara's and Alice's House:Kitchen:Fridge",
+                "Preparing a quick and healthy breakfast"
+            ],
+            [
+                "07:20 AM",
+                "07:30 AM",
+                "Sara's and Alice's House:Kitchen:Counter",
+                "Planning the day and setting goals"
+            ]
+        ]
+    ],
+    [
+        "07:30 AM",
+        "08:00 AM",
+        "Eating breakfast and reviewing the news",
+        [
+            [
+                "07:30 AM",
+                "07:40 AM",
+                "Sara's and Alice's House:Kitchen:Fridge",
+                "Eating breakfast"
+            ],
+            [
+                "07:40 AM",
+                "08:00 AM",
+                "Sara's and Alice's House:Living room:Table right side",
+                "Reviewing the news"
+            ]
+        ]
+    ],
+    [
+        "08:00 AM",
+        "09:17 AM",
+        "Brainstorming plot ideas for the science fiction novel",
+        [
+            [
+                "09:00 AM",
+                "09:30 AM",
+                "Sara's and Alice's House:Living room:Table right side",
+                "Brainstorming plot ideas for the science fiction novel"
+            ],
+            [
+                "09:30 AM",
+                "10:17 AM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Creating a list of potential characters for the science fiction novel"
+            ]
+        ]
+    ],
+    [
+        "09:00 AM",
+        "10:30 AM",
+        "Writing and testing code for a new feature",
+        [
+            [
+                "10:00 AM",
+                "11:00 AM",
+                "Orange Office:Office desks:Office table",
+                "Writing and testing code for a new feature"
+            ]
+        ]
+    ],
+    [
+        "10:30 AM",
+        "11:00 AM",
+        "Refactoring and optimizing existing code",
+        [
+            [
+                "11:00 AM",
+                "11:30 AM",
+                "Orange Office:Office desks:Office table",
+                "Refactoring and optimizing existing code"
+            ]
+        ]
+    ],
+    [
+        "11:00 AM",
+        "12:07 PM",
+        "Researching new programming techniques and tools online",
+        [
+            [
+                "11:07 AM",
+                "11:37 AM",
+                "Orange Office:Reference room:Files rack",
+                "Researching new programming techniques and tools online"
+            ],
+            [
+                "11:37 AM",
+                "12:14 PM",
+                "Orange Office:Office desks:Office table",
+                "Experimenting with a new programming tool"
+            ]
+        ]
+    ],
+    [
+        "12:00 PM",
+        "01:00 PM",
+        "Preparing a quick and healthy lunch"
+    ],
+    [
+        "01:00 PM",
+        "02:30 PM",
+        "Creating a list of futuristic technologies and settings for the science fiction novel"
+    ],
+    [
+        "02:30 PM",
+        "04:00 PM",
+        "Outlining the main conflict and resolution for the science fiction novel"
+    ],
+    [
+        "04:00 PM",
+        "05:30 PM",
+        "Brainstorming science fiction story ideas"
+    ],
+    [
+        "05:30 PM",
+        "06:30 PM",
+        "Writing the first draft of the science fiction short story"
+    ],
+    [
+        "06:30 PM",
+        "07:00 PM",
+        "Exercising and listening to electronic music"
+    ],
+    [
+        "07:00 PM",
+        "08:00 PM",
+        "Watching a documentary about technology"
+    ],
+    [
+        "08:00 PM",
+        "09:00 PM",
+        "Relaxing with a retro video game"
+    ],
+    [
+        "09:00 PM",
+        "09:30 PM",
+        "Reflecting on the day and reviewing the day's achievements"
+    ],
+    [
+        "09:30 PM",
+        "10:00 PM",
+        "Setting goals for tomorrow"
+    ]
+]

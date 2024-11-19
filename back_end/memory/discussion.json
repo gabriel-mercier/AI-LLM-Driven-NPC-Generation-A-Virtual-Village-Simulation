@@ -1,0 +1,36 @@
+{
+    "John": {
+        "current_discussion": "&\n- Sara: Hey John, how's your morning going?\n- John: Hey Sara, it's going well, just finished my morning exercises. How about you?\n- Sara: I just finished practicing morning yoga. Feeling refreshed!\n- John: That's great. By the way, I wanted to let you know that I found a documentary about project management to watch later.\n- Sara: Sounds interesting! I'll be working on some graphic design sketches and reading about environmental conservation initiatives.\n- John: That's cool. Your dedication to your work is admirable.\n- Sara: Thanks, John. I appreciate that. Let's catch up later!\n&",
+        "summary": "Discussion between Sara and John about their morning routines and plans for the day, including exercise, yoga, documentary watching, graphic design work, and environmental conservation initiatives.",
+        "discussion_history": [
+            "&\n- Sara: Hey John, how's your morning going?\n- John: Hey Sara, it's going well, just finished my morning exercises. How about you?\n- Sara: I just finished practicing morning yoga. Feeling refreshed!\n- John: That's great. By the way, I wanted to let you know that I found a documentary about project management to watch later.\n- Sara: Sounds interesting! I'll be working on some graphic design sketches and reading about environmental conservation initiatives.\n- John: That's cool. Your dedication to your work is admirable.\n- Sara: Thanks, John. I appreciate that. Let's catch up later!\n&"
+        ]
+    },
+    "Elsa": {
+        "current_discussion": "",
+        "summary": "",
+        "discussion_history": []
+    },
+    "James": {
+        "current_discussion": "",
+        "summary": "",
+        "discussion_history": []
+    },
+    "Tom": {
+        "current_discussion": "",
+        "summary": "",
+        "discussion_history": []
+    },
+    "Alice": {
+        "current_discussion": "",
+        "summary": "",
+        "discussion_history": []
+    },
+    "Sara": {
+        "current_discussion": "&\n- Sara: Hey John, how's your morning going?\n- John: Hey Sara, it's going well, just finished my morning exercises. How about you?\n- Sara: I just finished practicing morning yoga. Feeling refreshed!\n- John: That's great. By the way, I wanted to let you know that I found a documentary about project management to watch later.\n- Sara: Sounds interesting! I'll be working on some graphic design sketches and reading about environmental conservation initiatives.\n- John: That's cool. Your dedication to your work is admirable.\n- Sara: Thanks, John. I appreciate that. Let's catch up later!\n&",
+        "summary": "Discussion between Sara and John about their morning routines and plans for the day, including exercise, yoga, documentary watching, graphic design work, and environmental conservation initiatives.",
+        "discussion_history": [
+            "&\n- Sara: Hey John, how's your morning going?\n- John: Hey Sara, it's going well, just finished my morning exercises. How about you?\n- Sara: I just finished practicing morning yoga. Feeling refreshed!\n- John: That's great. By the way, I wanted to let you know that I found a documentary about project management to watch later.\n- Sara: Sounds interesting! I'll be working on some graphic design sketches and reading about environmental conservation initiatives.\n- John: That's cool. Your dedication to your work is admirable.\n- Sara: Thanks, John. I appreciate that. Let's catch up later!\n&"
+        ]
+    }
+}

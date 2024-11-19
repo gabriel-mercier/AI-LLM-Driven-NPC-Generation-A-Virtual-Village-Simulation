@@ -1,0 +1,97 @@
+{
+  "John": {
+    "name": "John",
+    "age": 34,
+    "lifestyle": "John goes to bed around 11pm, awakes up around 7am.",
+    "profile": "John is an enginner at Orange.He has a roommate Tom. He loves to exercice and he is handsome.",
+    "initial_position": {
+      "x": 16,
+      "y": 79
+    },
+    "Goals and motivations": "John aims to become a project manager at Orange and seeks to improve his physical condition to participate in a triathlon.",
+    "Values and beliefs": "He strongly believes in the importance of teamwork and honesty in personal relationships.",
+    "Preferences and dislikes": "John prefers rock music and avoids horror movies. He likes spicy dishes and does not like overly sweet foods.",
+    "Skills and talents": "In addition to his engineering expertise, John plays the guitar and speaks Spanish fluently.",
+    "Personal history": "He grew up in a family that valued education and sports, which cultivated his love for exercise and his professional ambition."
+  },
+  "Elsa": {
+    "name": "Elsa",
+    "age": 23,
+    "lifestyle": "Elsa goes to bed at 11pm, awakes up at 7am.",
+    "profile": "Elsa is an enginner at Orange. She is married. She loves to play chess.",
+    "initial_position": {
+      "x": 8,
+      "y": 54
+    },
+    "Goals and motivations": "Elsa aims to lead a major engineering project within Orange and aspires to become a recognized chess player in national competitions.",
+    "Values and beliefs": "She values creativity and innovation in her work and believes in equality and fairness in her personal and professional relationships.",
+    "Preferences and dislikes": "Elsa enjoys classical music and has a keen interest in strategy games, but dislikes crowded places and avoids junk food.",
+    "Skills and talents": "Beyond her engineering skills, Elsa is a skilled chess player and has a knack for solving complex puzzles quickly.",
+    "Personal history": "She was raised in a supportive environment that encouraged her intellectual pursuits and problem-solving skills, leading her to excel in STEM fields and chess."
+  },
+  "James": {
+    "name": "James",
+    "age": 28,
+    "lifestyle": "James goes to bed at 11pm, awakes up at 7am.",
+    "profile": "James is a coach at the gym. He loves to exercice and he is brawny. He is married.",
+    "initial_position": {
+      "x": 13,
+      "y": 56
+    },
+  "Goals and motivations": "James aims to inspire people to lead healthier lives and plans to start a fitness program for seniors. He also aspires to complete a marathon.",
+  "Values and beliefs": "He believes in the power of perseverance and discipline. James values health and fitness not just as a physical necessity, but as a way of life.",
+  "Preferences and dislikes": "James enjoys outdoor activities and healthy eating. He has a preference for classical music to relax after a long day. He dislikes sedentary lifestyles and fast food.",
+  "Skills and talents": "Apart from his professional fitness coaching skills, James is an adept marathon runner and has a talent for motivational speaking.",
+  "Personal history": "James was a competitive athlete in his youth, which laid the foundation for his career in fitness. His passion for exercise was influenced by his desire to overcome personal health challenges."
+
+  },
+
+  "Tom": {
+    "name": "Tom",
+
+    "age": 30,
+    "lifestyle": "Tom goes to bed around 10pm and wakes up at 6am.",
+    "profile": "Tom is an engineer at Orange. He shares an apartment with John. He enjoys playing video games and cooking.",
+    "initial_position": {
+      "x": 9,
+      "y": 81
+    },
+    "Goals and motivations": "Tom aims to advance his career within Orange and wants to improve his culinary skills.",
+    "Values and beliefs": "He values friendship and loyalty, believing in the importance of supporting those closest to him.",
+    "Preferences and dislikes": "Tom enjoys a wide range of music genres but particularly loves electronic music. He dislikes horror movies and fast food.",
+    "Skills and talents": "In addition to his engineering skills, Tom is an excellent cook and is proficient in various video games.",
+    "Personal history": "Tom grew up in a multicultural environment, which fostered his appreciation for diverse cuisines and interests."
+  },
+
+  "Sara": {
+    "name": "Sara",
+    "age": 27,
+    "profile": "Sara works as a graphic designer. She enjoys painting and hiking in her free time.",
+    "initial_position": {
+      "x": 31,
+      "y": 92
+    },
+    "Goals and motivations": "Sara aims to establish her own design studio and wants to travel to different countries to explore their art and culture.",
+    "Values and beliefs": "She values freedom and self-expression, believing that art has the power to inspire and evoke emotions.",
+    "Preferences and dislikes": "Sara loves indie music and is passionate about environmental conservation. She dislikes crowded places and fast fashion.",
+    "Skills and talents": "Besides her graphic design skills, Sara is a talented painter and has a keen eye for aesthetics.",
+    "Personal history": "Sara grew up surrounded by nature, which instilled in her a deep respect for the environment and a love for outdoor activities."
+  },
+
+
+  "Alice": {
+    "name": "Alice",
+    "age": 25,
+    "profile": "Alice works at the grocery shop. She enjoys nature and reading science fiction novels.",
+    "initial_position": {
+      "x": 34,
+      "y": 96
+    },
+    "Goals and motivations": "Alice dreams of writing her own science fiction novel.",
+    "Values and beliefs": "She values intelligence and curiosity, believing in the importance of continuous learning and exploration.",
+    "Preferences and dislikes": "Alice enjoys electronic music and is a fan of retro video games. She dislikes close-mindedness and overly complicated user interfaces.",
+    "Skills and talents": "In addition to her writing skills, Alice is an avid gamer and has a vivid imagination, which fuels her passion for writing.",
+    "Personal history": "Alice grew up fascinated by technology and literature, which shaped her career path and creative aspirations."
+  }
+
+}

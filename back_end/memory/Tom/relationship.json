@@ -1,0 +1,22 @@
+{
+  "Elsa": {
+    "relationship": [7, 8, 7, 9],
+    "description": "Tom is Elsa's colleague at Orange. They share a professional relationship and often collaborate on projects. Elsa values Tom's dedication and expertise."
+  },
+  "John": {
+    "relationship": [7, 6, 8, 7],
+    "description": "Tom is John's roommate. They share a living space and occasionally engage in activities together. John appreciates Tom's companionship and cooking skills."
+  },
+  "James": {
+    "relationship": [6, 7, 8, 6],
+    "description": "Tom is James's acquaintance. While they don't interact much, Tom respects James's dedication to fitness and occasionally seeks advice from him."
+  },
+  "Sara": {
+    "relationship": [6, 8, 7, 6],
+    "description": "Tom is Sara's colleague at Orange. They have a professional relationship and occasionally collaborate on projects. Tom admires Sara's creativity and dedication."
+  },
+  "Alice": {
+    "relationship": [7, 7, 6, 8],
+    "description": "Tom is Alice's colleague at Orange. They share a professional relationship and often discuss work-related matters. Tom appreciates Alice's skills and contributions to their projects."
+  }
+}

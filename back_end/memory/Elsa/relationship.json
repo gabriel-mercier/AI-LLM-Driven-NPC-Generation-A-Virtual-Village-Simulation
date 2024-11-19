@@ -1,0 +1,22 @@
+{
+  "John": {
+    "relationship": [8, 9, 8, 9],
+    "description": "Elsa is John's neighbor. They have known each other for 5 years. They both love to play chess. They are very good friends."
+  },
+  "James": {
+    "relationship": [7, 8, 9, 7],
+    "description": "Elsa is James's wife. They have been married for 10 years. They have a good relationship and they often help each other. They have a lot in common and they often have dinner together. They are very close and they often share their secrets with each other."
+  },
+  "Tom": {
+    "relationship": [6, 7, 8, 6],
+    "description": "Tom is Elsa's colleague at Orange. They work together closely and have a good professional relationship. Elsa appreciates Tom's dedication and expertise in their field."
+  },
+  "Sara": {
+    "relationship": [7, 8, 7, 6],
+    "description": "Sara is Elsa's friend and colleague at Orange. They share a mutual respect and occasionally collaborate on projects. Elsa appreciates Sara's dedication to her work and creativity."
+  },
+  "Alice": {
+    "relationship": [6, 7, 8, 7],
+    "description": "Alice is Elsa's friend and colleague at Orange. They have a good working relationship and enjoy discussing various topics. Elsa admires Alice's intelligence and creativity."
+  }
+}

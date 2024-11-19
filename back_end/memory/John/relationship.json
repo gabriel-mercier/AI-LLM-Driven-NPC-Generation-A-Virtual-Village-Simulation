@@ -1,0 +1,22 @@
+{
+  "Elsa": {
+    "relationship": [5, 7, 6, 8],
+    "description": "Elsa is John's neighbor. She is a very nice person and she is always willing to help John. She is a very good friend of John. He likes her but doesn't like to lose while playing chess."
+  },
+  "James": {
+    "relationship": [4, 6, 5, 3],
+    "description": "James is John's neighbor. John doesn't like him very much because he is always asking for help."
+  },
+  "Tom": {
+    "relationship": [7, 8, 9, 7],
+    "description": "Tom is John's roommate and colleague at Orange. They have a strong bond and support each other in both personal and professional matters. John appreciates Tom's cooking skills and gaming companionship."
+  },
+  "Sara": {
+    "relationship": [6, 7, 8, 6],
+    "description": "Sara is John's friend and the sister of Alice. They have a good relationship, but John sometimes finds Sara's environmental activism a bit overwhelming. Nonetheless, he respects her passion."
+  },
+  "Alice": {
+    "relationship": [7, 8, 7, 9],
+    "description": "Alice is John's friend and the sister of Sara. They share common interests in technology and gaming, which strengthens their bond. John appreciates Alice's intelligence and creativity."
+  }
+}

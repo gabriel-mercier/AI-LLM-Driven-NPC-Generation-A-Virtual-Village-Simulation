@@ -1,0 +1,22 @@
+{
+  "Elsa": {
+    "relationship": [7, 8, 7, 6],
+    "description": "Sara is Elsa's colleague at Orange. They share a professional relationship and occasionally collaborate on projects. Sara admires Elsa's dedication and expertise."
+  },
+  "John": {
+    "relationship": [6, 7, 8, 7],
+    "description": "Sara is John's acquaintance. They occasionally interact in social settings and share mutual acquaintances. John respects Sara's dedication to her work."
+  },
+  "James": {
+    "relationship": [7, 7, 8, 6],
+    "description": "Sara is James's acquaintance. They occasionally interact in social settings and share mutual acquaintances. James admires Sara's dedication to her work and creativity."
+  },
+  "Tom": {
+    "relationship": [6, 8, 7, 6],
+    "description": "Sara is Tom's colleague at Orange. They share a professional relationship and occasionally collaborate on projects. Tom admires Sara's creativity and dedication."
+  },
+  "Alice": {
+    "relationship": [8, 7, 6, 7],
+    "description": "Sara is Alice's sister. They share a close sisterly bond and often confide in each other. Alice values Sara's support and companionship."
+  }
+}

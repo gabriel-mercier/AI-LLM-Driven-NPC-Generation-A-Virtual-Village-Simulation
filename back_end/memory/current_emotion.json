@@ -1,0 +1,82 @@
+{
+    "John": {
+        "stable_state": [
+            8,
+            1,
+            1,
+            7,
+            1,
+            9,
+            1
+        ],
+        "current_state": []
+    },
+    "Elsa": {
+        "stable_state": [
+            7,
+            3,
+            2,
+            8,
+            2,
+            7,
+            1
+        ],
+        "current_state": []
+    },
+    "James": {
+        "stable_state": [
+            8,
+            4,
+            5,
+            7,
+            3,
+            9,
+            2
+        ],
+        "current_state": [
+            8.0,
+            3.0,
+            5.0,
+            7.0,
+            3.0,
+            9.0,
+            2.0
+        ]
+    },
+    "Tom": {
+        "stable_state": [
+            6,
+            3,
+            2,
+            8,
+            4,
+            7,
+            1
+        ],
+        "current_state": []
+    },
+    "Sara": {
+        "stable_state": [
+            7,
+            2,
+            4,
+            9,
+            1,
+            8,
+            3
+        ],
+        "current_state": []
+    },
+    "Alice": {
+        "stable_state": [
+            9,
+            1,
+            3,
+            8,
+            2,
+            7,
+            1
+        ],
+        "current_state": []
+    }
+}

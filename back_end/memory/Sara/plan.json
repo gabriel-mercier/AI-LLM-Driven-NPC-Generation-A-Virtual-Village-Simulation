@@ -1,0 +1,299 @@
+[
+    [
+        "07:00 AM",
+        "07:30 AM",
+        "Practicing morning yoga",
+        [
+            [
+                "07:00 AM",
+                "07:30 AM",
+                "Sara's and Alice's House:",
+                "Practicing morning yoga"
+            ]
+        ]
+    ],
+    [
+        "07:30 AM",
+        "08:09 AM",
+        "Doing morning exercises",
+        [
+            [
+                "08:00 AM",
+                "08:24 AM",
+                "Gym:Stamina area:Running machine",
+                "Doing cardio exercises"
+            ],
+            [
+                "08:24 AM",
+                "08:39 AM",
+                "Gym:Weight training area:Weights",
+                "Strength training exercises"
+            ],
+            [
+                "08:39 AM",
+                "08:54 AM",
+                "Gym:Relaxing area:Chair",
+                "Stretching and cool down"
+            ]
+        ]
+    ],
+    [
+        "08:09 AM",
+        "09:22 AM",
+        "Creating initial sketches for the graphic design project",
+        [
+            [
+                "09:00 AM",
+                "09:43 AM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Gathering necessary materials and setting up the workspace"
+            ],
+            [
+                "09:43 AM",
+                "10:43 AM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Creating initial sketches for the graphic design project"
+            ]
+        ]
+    ],
+    [
+        "09:09 AM",
+        "10:00 AM",
+        "Gathering inspiration and references for the graphic design project",
+        [
+            [
+                "10:00 AM",
+                "10:30 AM",
+                "Orange Office:Reference room:Files rack",
+                "Browsing design books and magazines for inspiration and references"
+            ],
+            [
+                "10:30 AM",
+                "11:00 AM",
+                "Sara's and Alice's House:Kitchen:Counter",
+                "Exploring design websites and online portfolios for inspiration and references"
+            ]
+        ]
+    ],
+    [
+        "10:00 AM",
+        "11:30 AM",
+        "Enjoying a peaceful nature walk around the lake",
+        [
+            [
+                "11:30 AM",
+                "12:00 PM",
+                "Lakeside:Fishing area",
+                "Taking in the serene surroundings and capturing the beauty of the lake through sketches"
+            ],
+            [
+                "12:00 PM",
+                "12:30 PM",
+                "Lakeside:Fishing area",
+                "Finding a peaceful spot to sit and meditate, immersing in the sounds of nature"
+            ],
+            [
+                "12:30 PM",
+                "1:00 PM",
+                "Lakeside:Fishing area",
+                "Taking a leisurely stroll around the lake, observing the flora and fauna"
+            ]
+        ]
+    ],
+    [
+        "11:30 AM",
+        "12:00 PM",
+        "Picking up some fresh fruits and vegetables for a healthy lunch",
+        [
+            [
+                "12:00 PM",
+                "12:15 PM",
+                "Grocery store:Fruits and vegetables selling area",
+                "Selecting fresh fruits and vegetables for a healthy lunch"
+            ],
+            [
+                "12:15 PM",
+                "12:30 PM",
+                "Grocery store:Fruits and vegetables selling area",
+                "Paying for the selected items at the cashier"
+            ]
+        ]
+    ],
+    [
+        "12:00 PM",
+        "02:00 PM",
+        "Setting up the easel and preparing the canvas for painting",
+        [
+            [
+                "12:00 PM",
+                "12:15 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Setting up the easel"
+            ],
+            [
+                "12:15 PM",
+                "12:30 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Preparing the canvas by stretching and priming"
+            ],
+            [
+                "12:30 PM",
+                "12:45 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Arranging the paint palette and brushes"
+            ],
+            [
+                "12:45 PM",
+                "01:00 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Setting up the lighting and adjusting the easel position"
+            ]
+        ]
+    ],
+    [
+        "02:00 PM",
+        "04:00 PM",
+        "Painting the landscape inspired by the recent hiking trip",
+        [
+            [
+                "02:00 PM",
+                "03:00 PM",
+                "Lakeside:Fishing area",
+                "Sketching the landscape and identifying key elements for the painting"
+            ],
+            [
+                "03:00 PM",
+                "04:00 PM",
+                "Lakeside:Fishing area",
+                "Mixing the paint colors and starting the initial layers of the landscape painting"
+            ]
+        ]
+    ],
+    [
+        "04:00 PM",
+        "05:30 PM",
+        "Researching traditional art forms and techniques of Japan",
+        [
+            [
+                "04:00 PM",
+                "04:30 PM",
+                "Orange Office:Reference room:Files rack",
+                "Researching traditional Japanese art forms and techniques"
+            ],
+            [
+                "04:30 PM",
+                "05:00 PM",
+                "Orange Office:Reference room:Window",
+                "Studying the influence of nature in Japanese art and architecture"
+            ]
+        ]
+    ],
+    [
+        "05:30 PM",
+        "06:30 PM",
+        "Studying the influence of nature in Japanese art and architecture",
+        [
+            [
+                "05:30 PM",
+                "06:00 PM",
+                "Orange Office:Reference room:Window",
+                "Reading about the influence of nature in Japanese art and architecture"
+            ],
+            [
+                "06:00 PM",
+                "06:30 PM",
+                "Orange Office:Common area:Coffee table",
+                "Reflecting on the impact of nature in Japanese art and architecture"
+            ]
+        ]
+    ],
+    [
+        "06:30 PM",
+        "07:00 PM",
+        "Listening to indie music and sketching new design ideas",
+        [
+            [
+                "06:30 PM",
+                "07:00 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Listening to indie music and sketching new design ideas"
+            ]
+        ]
+    ],
+    [
+        "07:00 PM",
+        "08:00 PM",
+        "Reading about environmental conservation initiatives",
+        [
+            [
+                "07:00 PM",
+                "08:00 PM",
+                "Orange Office:Reference room:Files rack",
+                "Reading about environmental conservation initiatives"
+            ]
+        ]
+    ],
+    [
+        "08:00 PM",
+        "08:30 PM",
+        "Reflecting on the day",
+        [
+            [
+                "08:00 PM",
+                "08:10 PM",
+                "Sara's and Alice's House:Kitchen:Fridge",
+                "Preparing a light dinner"
+            ],
+            [
+                "08:10 PM",
+                "08:20 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Eating dinner while listening to soothing music"
+            ],
+            [
+                "08:20 PM",
+                "08:30 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Reflecting on the day's events"
+            ]
+        ]
+    ],
+    [
+        "08:30 PM",
+        "09:00 PM",
+        "Journaling about the day's experiences",
+        [
+            [
+                "08:30 PM",
+                "09:00 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Journaling about the day's experiences"
+            ]
+        ]
+    ],
+    [
+        "09:00 PM",
+        "09:15 PM",
+        "Setting intentions for tomorrow",
+        [
+            [
+                "09:00 PM",
+                "09:05 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Reflecting on the day's events and journaling about the day's experiences"
+            ],
+            [
+                "09:05 PM",
+                "09:10 PM",
+                "Sara's and Alice's House:Bedroom:Bed Sara side",
+                "Setting intentions for tomorrow"
+            ],
+            [
+                "09:10 PM",
+                "09:15 PM",
+                "Sara's and Alice's House:Living room:Table left side",
+                "Listening to soothing music before bedtime"
+            ]
+        ]
+    ]
+]

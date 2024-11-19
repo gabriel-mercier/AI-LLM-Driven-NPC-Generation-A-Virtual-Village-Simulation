@@ -1,0 +1,22 @@
+{
+  "John": {
+    "relationship": [6, 4, 3, 5],
+    "description": "John is James's neighbor. He is a grumpy man but James likes him. They don't have a lot in common but they get along well."
+  },
+  "Elsa": {
+    "relationship": [3, 9, 8, 7],
+    "description": "Elsa is James's wife. He loves her very much. She is sweet and caring toward him. They have been married for 10 years. They are very close and they often share their secrets with each other."
+  },
+  "Tom": {
+    "relationship": [7, 8, 9, 7],
+    "description": "Tom is James's colleague at the gym. James respects Tom's dedication to fitness and values their professional relationship. However, they don't interact much outside of work."
+  },
+  "Sara": {
+    "relationship": [5, 6, 7, 4],
+    "description": "Sara is James's acquaintance. While they have a cordial relationship, James finds Sara's environmental activism a bit overwhelming at times."
+  },
+  "Alice": {
+    "relationship": [6, 7, 8, 6],
+    "description": "Alice is James's acquaintance. They share mutual interests in technology and gaming, which strengthens their bond. However, their interactions are limited."
+  }
+}
